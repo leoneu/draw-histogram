@@ -2,6 +2,8 @@
 
 See index.html for details on how to use it.
 
+Thank you to the authors of [Flotr2](http://humblesoftware.com/flotr2/) and all its contributors. Very nice library! 
+
 ![Screenshot](https://github.com/leoneu/draw-histogram/raw/master/screenshot.png)
 
 
